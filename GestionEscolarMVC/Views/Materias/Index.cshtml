@@ -7,27 +7,30 @@
 <h2>Lista de Materias</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Crear Nuevo", "Create", null, new { @class = "btn btn-success mb-3" })
 </p>
-<table class="table">
-    <tr>
+<table class="table table-striped table-hover text-center align-middle">
+    <tr class="table-dark">
         <th>
             @Html.DisplayNameFor(model => model.Nombre)
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Nombre)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.MateriaId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.MateriaId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.MateriaId })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                <div class="btn-group" role="group">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.MateriaId }, new { @class = "btn btn-warning btn-sm" })
+                    @Html.ActionLink("Details", "Details", new { id = item.MateriaId }, new { @class = "btn btn-info btn-sm text-white" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.MateriaId }, new { @class = "btn btn-danger btn-sm" })
+                </div>
+            </td>
+        </tr>
+    }
 
 </table>

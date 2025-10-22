@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\saril\\desktop\\progra4\\gestionescolarmvc\\gestionescolarmvc\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\saril\\desktop\\progra4\\gestionescolarmvc\\gestionescolarmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\saril\\desktop\\progra4\\gestionescolarmvc\\gestionescolarmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\gestionescolarmvc\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B5EE84-449A-4BEA-9A34-5CF18FFE48D4}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
-              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
-              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
-              "RelativeToolTip": "GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T18:55:39.166Z",
+              "WhenOpened": "2025-10-22T20:24:49.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Web.config",
-              "RelativeDocumentMoniker": "GestionEscolarMVC\\Web.config",
-              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Web.config",
-              "RelativeToolTip": "GestionEscolarMVC\\Web.config",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-22T02:33:14.29Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
+              "RelativeToolTip": "GestionEscolarMVC\\Views\\Materias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T18:55:39.166Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Estudiantes\\Index.cshtml",
               "ToolTip": "C:\\Users\\saril\\Desktop\\progra4\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Estudiantes\\Index.cshtml",
               "RelativeToolTip": "GestionEscolarMVC\\Views\\Estudiantes\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-20T18:52:48.054Z",
               "EditorCaption": ""
