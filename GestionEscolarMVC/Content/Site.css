@@ -18,3 +18,11 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Brand color para navbar y footer */
+.bg-brand {
+    background-color: #5E825C !important;
+    background-image: none !important;
+    border-color: #5E825C !important;
+}
+
